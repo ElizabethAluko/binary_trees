@@ -1,19 +1,3 @@
-jesar-enl
-/
-binary_trees
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-binary_trees/18-binary_tree_uncle.c
-@jesar-enl
-jesar-enl Uncle to the node
- 1 contributor
-19 lines (18 sloc)  412 Bytes
 #include "binary_trees.h"
 
 /**
